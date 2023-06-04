@@ -1,0 +1,21 @@
+{
+  "name": "똥똥",
+  "location": "서울시 광진구 화양동 기모찌",
+  "owner" : {
+    "name": "김똥똥",
+    "id": "dongdong1",
+    "phone": "010-1234-5678"
+  },
+  "menus": [
+    {
+      "name": "변기똥치킨",
+      "price": 10000,
+      "ingredients": ["변기", "똥", "닭"]
+    },
+    {
+      "name": "설사똥치킨",
+      "price": 15000,
+      "ingredients": ["설사", "똥", "닭"]
+    }
+    ]
+}
